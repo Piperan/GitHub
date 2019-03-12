@@ -18,6 +18,8 @@ public class TestPrimeNo {
 	//@FixMethodOrder(MethodSorters.NAME_ASCENDING)
 	//@Ignore
 	//@After
+
+	//test. Jonathan was here 
 	@Test
 	public void testPrimeNo() {
 		assertEquals(true, PrimeNo.checkPrime(8));
