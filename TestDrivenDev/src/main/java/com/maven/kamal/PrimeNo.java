@@ -1,5 +1,7 @@
 package com.maven.kamal;
 
+//Evangeline
+
 public class PrimeNo {
 	
 	public static boolean checkPrime(int n) { 
