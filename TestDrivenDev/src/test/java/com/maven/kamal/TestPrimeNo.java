@@ -9,6 +9,7 @@ import org.junit.Ignore;
 import org.junit.Test;
 import org.junit.runners.MethodSorters;
 
+//Evangeline Bayani March 15 2019
 //import com.maven.examples.LuckyNumber;
 
 public class TestPrimeNo {
